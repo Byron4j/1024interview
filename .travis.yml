@@ -1,14 +1,11 @@
 language: java
+sudo: false # faster builds
 
-notifications:
-  email: false
+script: "mvn cobertura:cobertura"
 
-script:
-  - mvn clean package -DskipTests=true
-  - mvn cobertura:cobertura
+after_success:
+  - export CODECOV_TOKEN="cd374ecb-a4c5-4473-8cea-4cc0d2c8f6fa"
+  - bash <(curl -s https://codecov.io/bash)
 
 branches:
   - develop
-
-after_success:
-- bash <(curl -s https://codecov.io/bash)
