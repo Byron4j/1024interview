@@ -1,5 +1,3 @@
-<img src="pictures/logo.png" alt="1024interview-logo" width="60%">
-
 #1024interview
 
 <p style="color=red font-size=20pt">JAVA programer interview dry goods (welcome to join the open source sharing)</p>
@@ -10,6 +8,10 @@
 [![codecov](https://codecov.io/gh/Byron4j/1024interview/branch/develop/graph/badge.svg)](https://codecov.io/gh/Byron4j/1024interview)
 [![codecov](https://scan.coverity.com/projects/17857/badge.svg)](https://scan.coverity.com/projects/17857)
 ![APM](https://img.shields.io/apm/l/vim-mode.svg?label=License&style=popout)
+
+<p><img src="pictures/logo.png" width="60%"><p>
+
+
 
 
 ## 面试题概览
