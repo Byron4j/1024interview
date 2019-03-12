@@ -1,14 +1,13 @@
 language: java
-
-notifications:
-  email: false
+sudo: false # faster builds
 
 script:
-  - mvn clean package -DskipTests=true
   - mvn cobertura:cobertura
+  - mvn clean test org.jacoco:jacoco-maven-plugin:0.7.3.201502191951:prepare-agent install
+
+after_success:
+  - export CODECOV_TOKEN="cd374ecb-a4c5-4473-8cea-4cc0d2c8f6fa"
+  - bash <(curl -s https://codecov.io/bash)
 
 branches:
   - develop
-
-after_success:
-- bash <(curl -s https://codecov.io/bash)
