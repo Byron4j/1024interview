@@ -1,7 +1,7 @@
-#1024interview
+# 1024interview
 
-<p style="color=red font-size=20pt">JAVA programer interview dry goods (welcome to join the open source sharing)</p>
-<p>JAVA程序猿笔试面试干货(欢迎加入开源分享)</p>
+**JAVA programer interview dry goods (welcome to join the open source sharing)**
+**JAVA程序猿笔试面试干货(欢迎加入开源分享)**
 
 [![Build Status](https://travis-ci.com/Byron4j/1024interview.svg?branch=develop)](https://travis-ci.com/Byron4j/1024interview)
 ![GitHub release](https://img.shields.io/github/release-pre/byron4j/1024interview.svg)
