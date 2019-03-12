@@ -5,6 +5,10 @@ notifications:
 
 script:
   - mvn clean package -DskipTests=true
+  - mvn cobertura:cobertura
 
 branches:
   - develop
+
+after_success:
+- bash <(curl -s https://codecov.io/bash)
