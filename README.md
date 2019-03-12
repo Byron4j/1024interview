@@ -1,6 +1,8 @@
 <img src="pictures/logo.png" alt="1024interview-logo" width="60%">
+
 #1024interview
-<b><font color=blue size=5>JAVA程序猿笔试面试干货(欢迎加入开源分享)</font></b>
+<p style="color=red font-size=20pt">JAVA programer interview dry goods (welcome to join the open source sharing)</p>
+<p>JAVA程序猿笔试面试干货(欢迎加入开源分享)</p>
 
 [![Build Status](https://travis-ci.com/Byron4j/1024interview.svg?branch=develop)](https://travis-ci.com/Byron4j/1024interview)
 ![GitHub release](https://img.shields.io/github/release-pre/byron4j/1024interview.svg)
