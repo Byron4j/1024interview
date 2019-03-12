@@ -5,3 +5,6 @@ notifications:
 
 script:
   - mvn clean package -DskipTests=true
+
+branches:
+  - develop
