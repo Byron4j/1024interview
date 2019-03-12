@@ -1,7 +1,5 @@
 ![](pictures/logo-simple.png) 
 
-# 1024interview
-
 **JAVA programer interview dry goods (welcome to join the open source sharing)**
 
 **JAVA程序猿笔试面试干货(欢迎加入开源分享)**
