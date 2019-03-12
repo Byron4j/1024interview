@@ -9,7 +9,7 @@
 [![codecov](https://codecov.io/gh/Byron4j/1024interview/branch/develop/graph/badge.svg)](https://codecov.io/gh/Byron4j/1024interview)
 [![codecov](https://scan.coverity.com/projects/17857/badge.svg)](https://scan.coverity.com/projects/17857)
 ![APM](https://img.shields.io/apm/l/vim-mode.svg?label=License&style=popout)
-
+![](https://img.shields.io/badge/author-%E4%B8%9C%E9%99%86%E4%B9%8B%E6%BB%87-red.svg)
 <p><img src="pictures/logo.png" width="60%"><p>
 
 
