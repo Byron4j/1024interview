@@ -1,5 +1,4 @@
-<font size=72>1024interview</font>
-
+<p><font size="100" face="arial" color="red">1024interview</font></p>
 <b><font color=blue size=5>JAVA程序猿笔试面试干货(欢迎加入开源分享)</font></b>
 
 [![Build Status](https://travis-ci.com/Byron4j/1024interview.svg?branch=develop)](https://travis-ci.com/Byron4j/1024interview)
