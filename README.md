@@ -36,8 +36,9 @@
 
 最后希望每一位朋友面试后收到的反馈是：**Congratulations for you!**
 
+![](pictures/tag.jpg)
 
->参考资料
+>辑文参考资料
 >
 >- codecov代码覆盖率示例：https://github.com/codecov/example-java-maven
 
