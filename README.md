@@ -20,7 +20,13 @@
 ✨ [JAVA程序猿笔试面试题概览](面试题概览.md)
 
 
-- **1.Java 核心**
+- **2.Java 基础**
+
+    - 1.[枚举](book/1-java-basic/1-Java枚举.md)
+    - 2.[注解](book/1-java-basic/2-Java注解.md)
+    - 3.[反射](book/1-java-basic/3-Java反射.md)
+    
+- **2.Java 核心**
 
     - 1.使用过的java集合类有哪些？```ArrayList```、```LinkedList```的源码级别的差异。
     - 2.```Map```、```HashMap```、```ConcurrentHashMap``` 的区别、以及源码级别深度考察
